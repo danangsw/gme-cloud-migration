@@ -326,7 +326,19 @@ GME will need a business continuity and disaster recovery (BCDR) strategy for th
 
 ### Continous Integration and Continous Delivery/Deployment
 
+For increasing agility of IT team to more responsive to the needs of business and market demand. GME will adopt the DevOps model to their organization.
+
+GME considers to using Azure DevOps services.
+
+- Empower teams to manage their work with agility and full visibility across products and projects. Define, track, and lay out work with Kanban boards, backlogs custom dashboards and reporting capabilities using Azure Boards.
+- Automate testing and practice continuous integration in the cloud with Azure Pipelines, create automatic workflows from idea to production with GitHub Actions, and even bring your Jenkins workloads to the Azure.
+- Deploy the applications to any Azure service automatically and with full control to continuously deliver value to customers.
+- Implement full stack monitoring, get actionable alerts, and gain insights from logs and telemetry with Azure Monitor. Manage your cloud environment with Azure Automation and tools such as Ansible, Chef, or Puppet. 
+- [Learn more](https://azure.microsoft.com/en-us/solutions/devops/) about Azure DevOps services.
+
 ## Conclusion
+
+In this scenario, GME planned for a cloud migration at scale. They divided the migration process into four stages. From assessment and migration, through to optimization, security, and management after migration was complete. Mostly, it's important to plan a migration project as a whole process, but to migrate systems within an organization by breaking sets down into classifications and numbers that make sense for the business. By assessing data and applying classifications, and project can be broken down into a series of smaller migrations, which can run safely and rapidly. The sum of these smaller migrations quickly turns into a large successful migration to cloud.
 
 ## Reference
 
