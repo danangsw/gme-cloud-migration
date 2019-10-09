@@ -342,16 +342,14 @@ In this scenario, GME planned for a cloud migration at scale. They divided the m
 
 ## Reference
 
-https://docs.microsoft.com/en-us/system-center/scsm/service-manager?view=sc-sm-2019#main
-https://searchdatacenter.techtarget.com/definition/configuration-management-database
-https://docs.microsoft.com/en-us/azure/migrate/contoso-migration-overview
-https://azure.microsoft.com/en-us/services/azure-migrate/?ocid=CM_Discovery_Checklist_PDF
-https://azure.microsoft.com/en-us/migration/migration-journey/
-https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-migration-checklist/Cloud_Migration_Checklist.pdf
-https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017
-
-https://azure.microsoft.com/overview/what-is-iaas
-https://azure.microsoft.com/overview/what-is-paas
-https://azure.microsoft.com/en-us/overview/cloudnative/
-
-https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-scale
+1. [Azure best practice: Migrate at scale](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-scale)
+2. [What is IaaS](https://azure.microsoft.com/overview/what-is-iaas)
+3. [What is PaaS](https://azure.microsoft.com/overview/what-is-paas)
+4. [Azure cloud-native](https://azure.microsoft.com/en-us/overview/cloudnative/)
+5. [Database Migration Assistant (DMA)](https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017)
+6. [System Center Service Manager (SC-SM)](https://docs.microsoft.com/en-us/system-center/scsm/service-manager?view=sc-sm-2019#main)
+7. [Definition Configuration Management Database](https://searchdatacenter.techtarget.com/definition/configuration-management-database)
+8. [Azure Migration Overview](https://docs.microsoft.com/en-us/azure/migrate/contoso-migration-overview)
+9. [Azure Migrate Overview](https://azure.microsoft.com/en-us/services/azure-migrate/)
+10. [Azure Migration Journey](https://azure.microsoft.com/en-us/migration/migration-journey/)
+11. [Cloud Migration Checklist](https://azure.microsoft.com/mediahandler/files/resourcefiles/cloud-migration-checklist/Cloud_Migration_Checklist.pdf)
